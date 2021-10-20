@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luijait_asm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luijait_asm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luis javier navarrete lozano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis javier navarrete lozano" height="30" width="40" /></a>
-<a href="https://instagram.com/luijait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luijait" height="30" width="40" /></a>
+<a href="https://es.linkedin.com/in/luis-javier-navarrete-lozano-6aa269204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis javier navarrete lozano" height="30" width="40" /></a>
+<a href="https://instagram.com/luija_it_x86_64.bin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luijait" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
