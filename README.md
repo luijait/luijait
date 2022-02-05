@@ -17,4 +17,4 @@
 
 
 ![Luijait's GitHub stats](https://github-readme-stats.vercel.app/api?username=luijait&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luijait)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luijait&theme=algolia)
