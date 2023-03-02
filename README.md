@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luijait</h1>
-<h3 align="center">Pentester</h3>
 
-- 🔭 My Portfolio [https://luijait.github.io](https://luijait.github.io)
-
-- 📫 Contact Me **luijait@icloud.com**
 
 <h3 align="left">Connect with me <3 :</h3>
 <p align="left">
