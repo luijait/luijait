@@ -2,9 +2,7 @@
 
 <h3 align="left">Connect with me <3 :</h3>
 <p align="left">
-<a href="https://twitter.com/luij4it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luij4it" height="30" width="40" /></a>
-<a href="https://es.linkedin.com/in/luis-javier-navarrete-lozano-6aa269204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis javier navarrete lozano" height="30" width="40" /></a>
-<a href="https://instagram.com/luijait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luijait" height="30" width="40" /></a>
+<a href="https://twitter.com/andalusiahacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luij4it" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
