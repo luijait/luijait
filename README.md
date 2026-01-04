@@ -1,155 +1,22 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+luijait+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/luijait_) 
 
-<p align="center">
-  <b>AI Researcher @ <a href="https://aliasrobotics.com">Alias Robotics</a></b>
-</p>
+# 💻 Tech Stack:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)![GDB](https://img.shields.io/badge/GDB-%23004D7A?style=flat)![Langchain](https://img.shields.io/badge/Langchain-%23FFD700?style=flat)![OSINT](https://img.shields.io/badge/OSINT-%23FF4500?style=flat)![Impacket](https://img.shields.io/badge/Impacket-%23008B8B?style=flat)![Active Directory](https://img.shields.io/badge/Active%20Directory-%23007396?style=flat&logo=active-directory&logoColor=white)![Red Teaming](https://img.shields.io/badge/Red%20Teaming-%23FF0000?style=flat)![Blue Teaming](https://img.shields.io/badge/Blue%20Teaming-%230000FF?style=flat)![Snort](https://img.shields.io/badge/Snort-%23FF4500?style=flat)![IOS Cisco](https://img.shields.io/badge/IOS%20Cisco-%230049FD?style=flat&logo=cisco&logoColor=white)![Malware](https://img.shields.io/badge/Malware-%23FF0000?style=flat)![Nmap](https://img.shields.io/badge/Nmap-%23000000?style=flat&logo=nmap&logoColor=white)![Metasploit](https://img.shields.io/badge/Metasploit-%23FF0000?style=flat)![ExploitDB](https://img.shields.io/badge/ExploitDB-%23FFFFFF?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FFA500?style=flat)
+![Amplify](https://img.shields.io/badge/Amplify-%23FF00FF?style=flat)
+![Nuclei](https://img.shields.io/badge/Nuclei-%23FFFF00?style=flat)
+![Katana](https://img.shields.io/badge/Katana-%23000000?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-%23FFD700?style=flat)
+![Finetunning](https://img.shields.io/badge/Finetunning-%23FF8C00?style=flat)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=luijait&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=luijait&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luijait&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <a href="https://x.com/luijait_"><img src="https://img.shields.io/badge/@luijait__-000000?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="https://github.com/luijait"><img src="https://img.shields.io/github/followers/luijait?label=Follow&style=flat-square&logo=github"/></a>
-  <a href="https://arxiv.org/abs/2504.06017"><img src="https://img.shields.io/badge/arXiv-2504.06017-B31B1B?style=flat-square&logo=arxiv&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=luijait&style=flat-square&color=58a6ff"/>
-</p>
-
----
-
-### About
-
-```python
-class Luijait:
-    def __init__(self):
-        self.name = "Luis Javier Navarrete Lozano"
-        self.role = "AI Researcher"
-        self.company = "Alias Robotics"
-        self.location = "Jaén, Spain"
-
-        self.focus = [
-            "Offensive Security",
-            "AI/ML for Cybersecurity",
-            "Exploit Development",
-            "Vulnerability Research"
-        ]
-
-        self.current_project = "CAI - Cybersecurity AI Framework"
-```
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=luijait&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=luijait&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔬 Research
-
-<table>
-<tr>
-<td width="50%">
-
-**CAI: An Open Cybersecurity AI Framework**
-
-Open-source agentic framework for offensive security—from reconnaissance to exploitation.
-
-[![Paper](https://img.shields.io/badge/Paper-arXiv:2504.06017-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2504.06017)
-[![Docs](https://img.shields.io/badge/Docs-Website-000?style=flat-square&logo=readthedocs)](https://aliasrobotics.github.io/cai/)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/aliasrobotics/cai)
-
-</td>
-<td width="50%">
-
-**CAI Achievements:**
-- 🥇 **Neurogrid CTF** — $50K Prize
-- 🥇 **Dragos OT CTF** — #1 Ranking
-- 🏆 **AI vs Human CTF** — Top-20 Worldwide
-- ⚡ **3,600x** faster than humans (peak)
-- 💰 **156x** cost reduction
-
-*Co-funded by EIC | NATO DIANA 2026*
-
-</td>
-</tr>
-</table>
-
----
-
-### 💀 Projects
-
-| Project | Description | Language |
-|:--------|:------------|:--------:|
-| [**GONET-Scanner**](https://github.com/luijait/GONET-Scanner) | Network scanner with ARP discovery & custom parser | Go |
-| [**PwnKit-Exploit**](https://github.com/luijait/PwnKit-Exploit) | CVE-2021-4034 — Polkit pkexec LPE | C |
-| [**SLmail5.5-Exploit-BoF**](https://github.com/luijait/SLmail5.5-Exploit-BoF) | Stack Buffer Overflow exploit | Python |
-| [**arpspoofing**](https://github.com/luijait/arpspoofing) | Cross-platform ARP cache poisoning | Python |
-| [**Vsftpd-2.3.4-Exploit**](https://github.com/luijait/Vsftpd-2.3.4-Exploit) | Vsftpd backdoor exploitation | Python |
-
----
-
-### 🛠️ Tech Stack
-
-<details open>
-<summary><b>Offensive Security</b></summary>
-<br/>
-
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square)
-![Nuclei](https://img.shields.io/badge/Nuclei-7D4698?style=flat-square)
-![Impacket](https://img.shields.io/badge/Impacket-008B8B?style=flat-square)
-![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>AI / ML</b></summary>
-<br/>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>Languages</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>Infrastructure</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-</details>
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=luijait&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=luijait&theme=github-dark-blue&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luijait&theme=darkhub&no-frame=true&no-bg=true&column=7" />
-</p>
-
----
-
-<p align="center">
-  <code>0x6c75696a616974</code>
-  <br/><br/>
-  <i>"I may be slow to respond."</i>
-</p>
